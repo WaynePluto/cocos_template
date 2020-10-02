@@ -2,9 +2,13 @@
  * @ Author: liuwei
  * @ Create Time: 2020-09-20 16:42:17
  * @ Modified by: liuwei
- * @ Modified time: 2020-09-20 16:43:08
+ * @ Modified time: 2020-10-02 17:13:28
  * @ Description: UI管理器，依赖基础类
  */
+import { FormType, SysDefine } from "./config/SysDefine";
+import ResMgr from "./ResMgr";
+import UIBase from "./UIBase";
+import UIModalMgr from "./UIModalMgr";
 
 const {ccclass, property} = cc._decorator;
 
