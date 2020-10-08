@@ -1,2 +1,3 @@
-# hello-world
-Hello world new project template.
+### 模板项目
+
+首屏加载后，进入主场景
